@@ -19,3 +19,4 @@ Project is created with:
 To run this project:
 * Open Android Studio
 * Select "Import Project (Gradle, Eclipse ADT, etc.)"
+* Select an Android Virtual Machine of choice and then run
